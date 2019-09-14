@@ -103,9 +103,10 @@ with open("weather_data.json","r") as wd:
 
 	fig = plt.figure()
 	ax = fig.add_subplot(111)
-	ax.bar(indices-width/2., temperatures , width, color='b', label='-Ymin')
-	ax.bar(indices+width/2., wind_speeds, width, color='r', label='Ymax')
+	ax.bar(indices-width/2., temperatures , width, color='b', label='temperature')
+	ax.bar(indices+width/2., wind_speeds, width, color='r', label='wind speed')
 	ax.axes.set_xticklabels(dates)
+	ax.legend(loc='upper right')
 	ax.set_xlabel('Prediction Date')
 	ax.set_ylabel('Values')
 	plt.show()
