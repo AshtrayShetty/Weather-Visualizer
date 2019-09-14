@@ -1,0 +1,128 @@
+[
+  {
+    "applicable_date": "2019-09-15",
+    "weather_state": {
+      "weather_state_name": "Light Rain",
+      "weather_state_abbr": "lr"
+    },
+    "direction": {
+      "wind_direction_compass": "WNW",
+      "wind_direction": 290.50114364339595
+    },
+    "analytics": {
+      "min_temp": 20.075,
+      "max_temp": 28.655,
+      "the_temp": 28.05,
+      "wind_speed": 5.205,
+      "air_pressure": 1011.045,
+      "visibility": 12.874,
+      "humidity": 68,
+      "predictability": 75
+    }
+  },
+  {
+    "applicable_date": "2019-09-16",
+    "weather_state": {
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr"
+    },
+    "direction": {
+      "wind_direction_compass": "WNW",
+      "wind_direction": 295.57394465063777
+    },
+    "analytics": {
+      "min_temp": 19.38,
+      "max_temp": 27.44,
+      "the_temp": 27.68,
+      "wind_speed": 6.169,
+      "air_pressure": 1009.505,
+      "visibility": 12.227,
+      "humidity": 69,
+      "predictability": 77
+    }
+  },
+  {
+    "applicable_date": "2019-09-17",
+    "weather_state": {
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr"
+    },
+    "direction": {
+      "wind_direction_compass": "WNW",
+      "wind_direction": 288.50167849517607
+    },
+    "analytics": {
+      "min_temp": 19.365,
+      "max_temp": 26.68,
+      "the_temp": 26.22,
+      "wind_speed": 6.078,
+      "air_pressure": 1009.31,
+      "visibility": 12.074,
+      "humidity": 73,
+      "predictability": 77
+    }
+  },
+  {
+    "applicable_date": "2019-09-18",
+    "weather_state": {
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr"
+    },
+    "direction": {
+      "wind_direction_compass": "WNW",
+      "wind_direction": 288.5106662590445
+    },
+    "analytics": {
+      "min_temp": 19.43,
+      "max_temp": 27.035,
+      "the_temp": 26.18,
+      "wind_speed": 5.253,
+      "air_pressure": 1009.12,
+      "visibility": 10.239,
+      "humidity": 76,
+      "predictability": 77
+    }
+  },
+  {
+    "applicable_date": "2019-09-19",
+    "weather_state": {
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr"
+    },
+    "direction": {
+      "wind_direction_compass": "W",
+      "wind_direction": 277.5
+    },
+    "analytics": {
+      "min_temp": 19.945,
+      "max_temp": 26.09,
+      "the_temp": 24.75,
+      "wind_speed": 6.275,
+      "air_pressure": 1009.33,
+      "visibility": 9.016,
+      "humidity": 80,
+      "predictability": 77
+    }
+  },
+  {
+    "applicable_date": "2019-09-20",
+    "weather_state": {
+      "weather_state_name": "Heavy Rain",
+      "weather_state_abbr": "hr"
+    },
+    "direction": {
+      "wind_direction_compass": "WSW",
+      "wind_direction": 255.5
+    },
+    "analytics": {
+      "min_temp": 19.34,
+      "max_temp": 27.005,
+      "the_temp": 24.76,
+      "wind_speed": 8.096,
+      "air_pressure": 1008.33,
+      "visibility": 10.0,
+      "humidity": 77,
+      "predictability": 77
+    }
+  }
+]
